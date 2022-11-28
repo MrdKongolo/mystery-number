@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585918635 source:d:\aim\cpp\nbremystere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
